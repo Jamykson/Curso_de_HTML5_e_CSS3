@@ -47,13 +47,3 @@ O curso aborda as melhores práticas do desenvolvimento front-end, focando em se
 * **Linguagens:** HTML5, CSS3.
 * **Ferramentas:** VS Code, Git, Google Chrome.
 * **Metodologias:** Semântica, Responsividade, Mobile First.
-
----
-
-## 🎓 Certificação
-Conteúdo gratuito disponível em [Curso em Vídeo](https://www.cursoemvideo.com). 
-*Informações sobre certificados:* [cursoemvideo.com/adicionar-credito](https://www.cursoemvideo.com/adicionar-credito).
-
----
-**Estudante:** [Seu Nome]  
-**Instituição:** UFRN
